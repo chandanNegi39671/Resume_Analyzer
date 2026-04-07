@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Uploads
+uploads/
+*.pdf
+*.docx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+*.log
